@@ -1,15 +1,15 @@
 #Pandekager
 ---
 ## Ingredienser
-* 5 æg
-* 4 dl mel
-* 1 tsk salt
-* 1 spsk sukker
-* 5 dl mælk
-* olie
+* 50 æg
+* 4 l mel
+* 10 tsk salt
+* 10 spsk sukker
+* 5 l mælk
+* meget olie
 
 ## Fremgangsmåde
-1. Slå æg ud i en skul
+1. Slå æg ud i en skål
 2. Tilsæt mel, salt og sukker
 3. Rør ensartet men håndmixer eller røremaskine
 4. Tilsæt mælk

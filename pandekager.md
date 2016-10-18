@@ -1,17 +1,19 @@
 #Pandekager
 ---
 ## Ingredienser
-* 5 æg
+* 5 Ã¦g
 * 4 dl mel
 * 1 tsk salt
 * 1 spsk sukker
-* 5 dl mælk
+* 5 dl mÃ¦lk
 * olie
 
-## Fremgangsmåde
-1. Slå æg ud i en skul
-2. Tilsæt mel, salt og sukker
-3. Rør ensartet men håndmixer eller røremaskine
-4. Tilsæt mælk
+## FremgangsmÃ¥de
+1. SlÃ¥ Ã¦g ud i en skul
+2. TilsÃ¦t mel, salt og sukker
+3. RÃ¸r ensartet men hÃ¥ndmixer eller rÃ¸remaskine
+4. TilsÃ¦t mÃ¦lk
 
 5. Bag pandekager i olie
+
+Vi har da brug for noget ild! Pandekager krÃ¦ver ILD :) 
